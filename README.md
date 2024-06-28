@@ -1,8 +1,8 @@
-👋 Hi, I’m @Dhairyshil24
-👀 I’m interested in developer advocacy
-🌱 I’m currently learning Solidity
-💞️ I’m looking to collaborate on Solidity projects
-📫 How to reach me: dhairyshil20@gmail.com
+-👋 Hi, I’m @Dhairyshil24
+-👀 I’m interested in developer advocacy
+-🌱 I’m currently learning Solidity
+-💞️ I’m looking to collaborate on Solidity projects
+-📫 How to reach me: dhairyshil20@gmail.com
 
 
 <!---
