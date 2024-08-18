@@ -1,7 +1,6 @@
 -👋 Hi, I’m @Dhairyshil24
--👀 I’m interested in developer advocacy
--🌱 I’m currently learning Solidity
--💞️ I’m looking to collaborate on Solidity projects
+-👀 I’m interested in frontend development
+-🌱 I’m currently learning ReactJs
 -📫 How to reach me: dhairyshil20@gmail.com
 
 
