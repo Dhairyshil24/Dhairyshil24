@@ -1,7 +1,11 @@
--👋 Hi, I’m @Dhairyshil24
--👀 I’m interested in frontend development
--🌱 I’m currently learning ReactJs
--📫 How to reach me: dhairyshil20@gmail.com
+- 👋 Hi, I’m @Dhairyshil24
+
+- 👀 I’m interested in frontend development
+
+- 🌱 I’m currently learning ReactJs
+
+- 📫 How to reach me: dhairyshil87@gmail.com
+
 
 
 <!---
